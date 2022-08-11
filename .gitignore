@@ -1,3 +1,7 @@
+:<<'END'
+불필요한 파일 git에 업로드 하기 싫을 때 목록추가
+git에 이미 올라가있는 파일은 git rm -r --cached [file_name]후 commit
+END
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 .DS_Store
