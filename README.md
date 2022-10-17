@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header)
-
+---
+🚁contact | wjswps@gmail.com
 <div align=center>
  
  <h2 align="center">👨‍💻 About 👨‍💻</h2>
@@ -27,4 +28,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: …
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=40&section=footer)
