@@ -3,7 +3,7 @@
 
 🚁contact | wjswps@gmail.com  
 
-주로 Python을 활용하여 AI모델링/데이터분석을 공부하고 있는 전형진입니다.  
+주로 Python을 활용하여 AI모델링/데이터분석을 공🛠부하고 있는 전형진입니다.  
 가만히 앉아서 반만 가기보다, 한번 실수하더라도 움직여보고 실패를 보완해가는 방식을 선호합니다.
 <div align=center>
  
@@ -17,18 +17,24 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qlqqqk)](https://solved.ac/qlqqqk)
 
-<!--
-**vividswan/vividswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h3 align="center"> 🛠 주요활동 🛠</h3>
 
-- 🔭 I’m currently working on …
-- 🌱 I’m currently learning …
-- 👯 I’m looking to collaborate on …
-- 🤔 I’m looking for help with …
-- 💬 Ask me about …
-- 📫 How to reach me: …
-- 😄 Pronouns: …
-- ⚡ Fun fact: …
--->
+|프로젝트|TASK|URL|
+|:---:|:---:|:---:|
+|사용자 감정에 따른 음악추천 시스템|NLP/Recommandation||
 
+<br>
+<br>
+ 
+ 
+<h3 align="center"> 🚴‍♂️ 주요활동 🚴‍♀️</h3>
+
+|Organization|Activity|Date|
+|:---:|:---:|:---:|
+|모두의연구소 AIFFEL|강남4기 졸업|2022|
+|이어드림 프로젝트|데이터 엔지니어링 수료|2021|
+
+ 
+ <br>
